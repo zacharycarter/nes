@@ -1,0 +1,14 @@
+{
+  "name": "nes-tests",
+  "version": "1.0.0",
+  "description": "test runner for nes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.8.0"
+  }
+}
