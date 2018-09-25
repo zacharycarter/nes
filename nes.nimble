@@ -14,7 +14,7 @@ backend       = "js"
 
 requires "nim >= 0.18.1"
 requires "ast_pattern_matching >= 1.0.0"
-requires "ssh://git@coderepo.carfax.net:7999/smc/litz.git"
+requires "https://github.com/zacharycarter/litz.git"
 
 task test, "run nes tests":
   withDir "tests":
